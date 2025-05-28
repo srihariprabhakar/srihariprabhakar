@@ -1,0 +1,20 @@
+## 👋 Hi, I’m Srihari Prabhakar — a cloud solutions engineer passionate about designing and building impactful solutions using the power of the cloud. With 4+ years of experience in networking, cloud, automation, and scripting, I love creating secure, scalable, and automated infrastructure that solves real-world problems. Whether it’s deploying apps with GitHub Actions, managing workloads in AKS, or troubleshooting complex networking setups, I’m driven by the craft of engineering reliable cloud systems. I’m now channeling this passion toward Technical Account Management, where I can help customers succeed through architecture, enablement, and partnership.
+
+--- 
+
+### 🔧 Tech Stack
+- **Cloud**: Azure, AWS, Oracle
+- **IaC**: Terraform, Bicep
+- **Containers**: Docker, Kubernetes, Helm
+- **CI/CD**: GitHub Actions, Azure DevOps
+- **Monitoring**: Prometheus, Grafana, Log Analytics
+- **Scripting**: Bash, PowerShell, Python
+
+---
+
+### 🎓 Certifications
+- Microsoft Certified: Azure Solutions Architect Expert
+- Microsoft Certified: Azure Administrator Associate
+- AWS Certified Cloud Practitioner
+- Silverpeak SDWAN Certified Professional
+- Lean Six Sigma White Belt
