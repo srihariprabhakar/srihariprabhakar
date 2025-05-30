@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Srihari Prabhakar — a cloud solutions engineer passionate about designing and building impactful solutions using the power of the cloud. With 4+ years of experience in networking, cloud, automation, and scripting, I love creating secure, scalable, and automated infrastructure that solves real-world problems. Whether it’s deploying apps with GitHub Actions, managing workloads in AKS, or troubleshooting complex networking setups, I’m driven by the craft of engineering reliable cloud systems.
+## 👋 Hi, I’m Srihari — a cloud solutions engineer passionate about designing and building impactful solutions using the power of the cloud. With 4+ years of experience in networking, cloud, automation, and scripting, I love creating secure, scalable, and automated infrastructure that solves real-world problems. Whether it’s deploying apps with GitHub Actions, managing workloads in AKS, or troubleshooting complex networking setups, I’m driven by the craft of engineering reliable cloud systems.
 
 --- 
 
