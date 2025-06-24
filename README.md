@@ -34,7 +34,7 @@ Microsoft Certified: Azure Solutions Architect Expert
 Architecting end-to-end solutions with governance, security, and performance at the core.
 
 Microsoft Certified: Azure Administrator Associate
-Managing and monitoring resources like a boss — from VMs to VNets to RBAC.
+Managing and monitoring resources — from VMs to VNets to RBAC.
 
 AWS Certified Cloud Practitioner
 Cross-cloud ready, with a solid grasp of AWS fundamentals and customer use cases.
