@@ -1,14 +1,13 @@
-## 👋 Hi, I’m Srihari — part cloud engineer, part network whisperer, and full-time problem solver.
+## 👋 Hi, I’m Srihari, a quick intro:
 
-With 4+ years of wrangling cloud infrastructure, automating away repetitive tasks, and untangling networking puzzles, I’ve learned one thing: the cloud is awesome — but only if it works. That’s where I come in.
-I’ve deployed apps with GitHub Actions, managed production workloads in AKS without breaking a sweat (mostly), and scripted my way out of more incidents than I care to admit.
-
+With 4+ years of wrangling cloud infrastructure, automating away repetitive tasks, and untangling networking puzzles, I’ve learned one thing: the cloud is awesome — but only if it works.
+I’ve deployed apps with GitHub Actions, managed production workloads in AKS without breaking a sweat (mostly), and scripted my way out of more incidents than I care to admit!
 ---------------
 
 🔧 Tech Stack 
 
 ☁️ Cloud Platforms:
-Skilled in architecting, deploying, and supporting solutions on Azure, AWS, and Oracle Cloud — with hands-on experience in designing secure, high-availability environments tailored to business needs.
+Skilled in architecting, deploying, and supporting solutions on Azure, AWS, and Oracle Cloud — with hands-on experience in designing secure, high-availability environments.
 
 📦 Infrastructure as Code:
 Building scalable and reproducible environments using Terraform and Bicep, ensuring that cloud deployments are not just fast, but also documented, version-controlled, and rollback-friendly (aka less stressful for everyone).
