@@ -6,6 +6,7 @@ I’ve deployed apps with GitHub Actions, managed production workloads in AKS wi
 ---------------
 
 🔧 Tech Stack 
+
 ☁️ Cloud Platforms:
 Skilled in architecting, deploying, and supporting solutions on Azure, AWS, and Oracle Cloud — with hands-on experience in designing secure, high-availability environments tailored to business needs.
 
