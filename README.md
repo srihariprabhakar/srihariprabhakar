@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Srihari, a quick intro:
 
-With 4+ years of wrangling cloud infrastructure, automating away repetitive tasks, and untangling networking puzzles, I’ve learned one thing: the cloud is awesome — but only if it works.
-I’ve deployed apps with GitHub Actions, managed production workloads in AKS without breaking a sweat (mostly), and scripted my way out of more incidents than I care to admit!
+With 4+ years of wrangling cloud infrastructure, automating away repetitive tasks, and untangling networking puzzles, and scripting my way out of more incidents than I care to admit, I’ve learned one thing: the cloud is awesome — but only if it works!
+
 ---------------
 
 🔧 Tech Stack 
