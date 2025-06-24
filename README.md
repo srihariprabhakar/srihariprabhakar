@@ -1,18 +1,11 @@
 ## 👋 Hi, I’m Srihari — part cloud engineer, part network whisperer, and full-time problem solver.
 
 With 4+ years of wrangling cloud infrastructure, automating away repetitive tasks, and untangling networking puzzles, I’ve learned one thing: the cloud is awesome — but only if it works. That’s where I come in.
-I’ve deployed apps with GitHub Actions (yes, on a Friday — I live dangerously), managed production workloads in AKS without breaking a sweat (mostly), and scripted my way out of more incidents than I care to admit.
-
-Now, I’m channeling that experience toward something bigger: helping customers succeed. As a Technical Account Manager, I’m here to:
-
-- Translate tech jargon into human (and vice versa)
-- Keep systems stable, scalable, and sane
-- Be the calm in the middle of your cloud storm ☁️⚡
-- And make sure you never hear the phrase “it works on my machine” again!
+I’ve deployed apps with GitHub Actions, managed production workloads in AKS without breaking a sweat (mostly), and scripted my way out of more incidents than I care to admit.
 
 ---------------
 
-🔧 Tech Stack (a.k.a. my toolbox for solving customer chaos)
+🔧 Tech Stack 
 ☁️ Cloud Platforms:
 Skilled in architecting, deploying, and supporting solutions on Azure, AWS, and Oracle Cloud — with hands-on experience in designing secure, high-availability environments tailored to business needs.
 
@@ -34,22 +27,21 @@ Automating repetitive tasks and building tools using Bash, PowerShell, and Pytho
 
 ---------------
 
-🎓 Certifications (a.k.a. my cloud credibility badges)
-These certifications reflect my technical foundation and my TAM superpower: translating cloud complexity into customer clarity.
+🎓 Certifications
 
-🏅 Microsoft Certified: Azure Solutions Architect Expert
+Microsoft Certified: Azure Solutions Architect Expert
 Architecting end-to-end solutions with governance, security, and performance at the core.
 
-🛠 Microsoft Certified: Azure Administrator Associate
+Microsoft Certified: Azure Administrator Associate
 Managing and monitoring resources like a boss — from VMs to VNets to RBAC.
 
-🌐 AWS Certified Cloud Practitioner
+AWS Certified Cloud Practitioner
 Cross-cloud ready, with a solid grasp of AWS fundamentals and customer use cases.
 
-🌍 Silverpeak SD-WAN Certified Professional
+Silverpeak SD-WAN Certified Professional
 Understanding the networking backbone behind modern enterprise connectivity.
 
-📈 Lean Six Sigma White Belt
+Lean Six Sigma White Belt
 Process-oriented thinking to improve outcomes, reduce friction, and keep customers happy.
 
 
