@@ -20,10 +20,10 @@ Deploying and managing Docker-based apps in Kubernetes (AKS) with Helm for templ
 Designing and optimizing pipelines with GitHub Actions and Azure DevOps to help teams ship faster, safer, and more often (without breaking production at 2 AM).
 
 📊 Monitoring & Observability:
-Proactive problem detection and incident response with Prometheus, Grafana, and Azure Log Analytics — because “nobody told me it was down” shouldn’t be how we find out.
+Proactive problem detection and incident response with Prometheus, Grafana, and Azure Log Analytics.
 
 💻 Scripting & Automation:
-Automating repetitive tasks and building tools using Bash, PowerShell, and Python — saving hours and maybe a few gray hairs in the process.
+Automating repetitive tasks and building tools using Bash, PowerShell, and Python — saving hours and maybe a few gray hairs in the process!
 
 
 ---------------
