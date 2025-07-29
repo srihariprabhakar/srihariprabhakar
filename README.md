@@ -22,8 +22,12 @@ Mostly small projects, diagnostic tools, automation scripts, and cloud-native de
 
 ## Certifications
 Microsoft Certified: Azure Solutions Architect Expert
+
 Microsoft Certified: Azure Administrator Associate
+
 AWS Certified Cloud Practitioner
+
 Silverpeak SD-WAN Certified Professional
+
 Lean Six Sigma White Belt
 
